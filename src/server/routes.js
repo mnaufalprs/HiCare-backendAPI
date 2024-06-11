@@ -1,6 +1,8 @@
 const {
     postRegisterHandler,
-    postLoginHandler
+    postLoginHandler,
+    predictModelHandler,
+    inputDataSchema,
 } = require('../server/handler');
 
 const routes = [
@@ -13,6 +15,16 @@ const routes = [
         path: '/login',
         method: 'POST',
         handler: postLoginHandler,
+    },
+    {
+        path: '/predict',
+        method: 'POST',
+        handler: predictModelHandler,
+        options: {
+            validate: {
+                payload: inputDataSchema
+            }
+        }
     }
 ]
 

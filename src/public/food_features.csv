@@ -1,0 +1,2225 @@
+food_name,kj_per_100_ml_or_gms,cal_per_100_ml_or_gms
+Acai Juice,244,58
+Aloe Vera,185,44
+Apple Juice,193,46
+Apricot Nectar,235,56
+Banana Juice,210,50
+Blackberry Juice,202,48
+Boysenberry Juice,227,54
+Capri-Sun,172,41
+Carrot Juice,168,40
+Chamomile Tea,0,0
+Cherry Juice,189,45
+Clamato,252,60
+Coconut Milk,979,233
+Coconut Water,80,19
+Concord Grape,298,71
+Cranberry Apple Juice,281,67
+Cranberry Grape Juice,298,71
+Cranberry Juice,193,46
+Cucumber Juice,42,10
+Currant Juice,202,48
+Energy-Drink,365,87
+Fruitopia,462,110
+Grape Juice,252,60
+Grapefruit Juice,193,46
+Lemon Juice,88,21
+Lemonade,210,50
+Lime Juice,88,21
+Limeade,538,128
+Mango Lassi,277,66
+Nestea,88,21
+Orange Juice,193,46
+Papaya Juice,244,58
+Passion Fruit Juice,202,48
+Peach Juice,227,54
+Peach Nectar,227,54
+Pear Juice,252,60
+Pear Nectar,252,60
+Pineapple Juice,223,53
+Pineapple Orange Juice,210,50
+Plum Juice,298,71
+Pomegranate Juice,277,66
+Sauerkraut Juice,59,14
+Tangerine Juice,181,43
+Tomato Juice,71,17
+Vegetable Juice,88,21
+White Grape Juice,315,75
+Absinthe,1462,348
+Advocaat,1189,283
+Amaretto,1302,310
+Applejack,979,233
+Asti,580,138
+Baileys,1373,327
+Bailey’s Irish Cream,1373,327
+Beer,181,43
+Blue Curacao,1021,243
+Bourbon,979,233
+Brandy,895,213
+Canadian Whiskey,907,216
+Chambord,1462,348
+Champagne,315,75
+Cider,206,49
+Cognac,987,235
+Cointreau,1344,320
+Drambuie,1504,358
+Frangelico,1000,238
+Gin,1105,263
+Glenfiddich,966,230
+Grand Marnier,1063,253
+Irish Whiskey,979,233
+Jack Daniel’s,613,146
+Jagermeister,1050,250
+Jim Beam,932,222
+Kahlua,756,180
+Liqueur,1050,250
+Liquor,1050,250
+Midori,1121,267
+Prosecco,277,66
+Punch,260,62
+Red Wine,357,85
+Rose Wine,298,71
+Rum,970,231
+Sambuca,1399,333
+Sangria,403,96
+Scotch,932,222
+Sherry,487,116
+Sloe Gin,1394,332
+Southern Comfort,1037,247
+Tequila,462,110
+Triple Sec,643,153
+Vermouth,546,130
+Vodka,970,231
+Whisky,1050,250
+White Wine,344,82
+Wine,349,83
+Agar-Agar,109,26
+Agave Syrup,1302,310
+All Purpose Flour,1529,364
+Almond Extract,1084,258
+Almonds,2222,529
+Apple Pie Filling,420,100
+Baking Powder,223,53
+Baking Soda,0,0
+Bread Flour,1516,361
+Brittle,2486,592
+Brown Sugar,1659,395
+Buttermilk,260,62
+Butterscotch Chips,2264,539
+Cake Flour,1520,362
+Candied Orange Peel,407,97
+Cane Sugar,1625,387
+Chocolate Chips,1961,467
+Chocolate Sprinkles,2100,500
+Cocoa Powder,958,228
+Coconut Flakes,1915,456
+Coconut Milk,210,50
+Corn Flour,1516,361
+Corn Syrup,1180,281
+Cornmeal,1520,362
+Cornstarch,1600,381
+Couverture,2520,600
+Cream Cheese,227,54
+Cream of Tartar,1084,258
+Crystallized Ginger,1407,335
+Custard Powder,1415,337
+Dark Rum,907,216
+Dextrose,1575,375
+Dried Apricots,1012,241
+Dried Cranberries,1294,308
+Dried Figs,1046,249
+Dried Prunes,449,107
+Duck Egg,777,185
+Egg,407,97
+Egg Nog,370,88
+Egg White,55,13
+Egg Yolk,1352,322
+Evaporated Milk,563,134
+Flour,1529,364
+Fructose,1546,368
+Gelatin,1407,335
+Glucose,1201,286
+Glucose Syrup,1625,387
+Granulated Sugar,1625,387
+Ground Cinnamon,1037,247
+Hazelnuts,2638,628
+Heavy Cream,1449,345
+Jaggery,1609,383
+Lemon Pie Filling,601,143
+Malt Powder,1516,361
+Malted Milk,1701,405
+Maltitol,882,210
+Maltodextrin,1575,375
+Maltose,1445,344
+Maple Syrup,1134,270
+Molasses,1218,290
+Nonpareils,1995,475
+Peppermint Extract,0,0
+Poppy Seeds,2205,525
+Powdered Milk,2083,496
+Powdered Sugar,1634,389
+Protein Powder,1726,411
+Raisins,1991,474
+Rice Milk,206,49
+Rock Sugar,2625,625
+Rolled Oats,1613,384
+Rum,1033,246
+Semolina Flour,1470,350
+Sesame Seeds,2407,573
+Shredded Coconut,2104,501
+Sorbitol,1575,375
+Soy Milk,172,41
+Soy Protein Powder,1420,338
+Sprinkles,2100,500
+Starch,1600,381
+Strawberry Preserves,1168,278
+Sucrose,1625,387
+Sugar,1701,405
+Sunflower Seeds,491,117
+Sweetened Condensed Milk,1348,321
+Sweetener,1512,360
+Unsalted Butter,3011,717
+Vanilla Extract,1210,288
+Vanilla Sugar,1499,357
+Vegetable Oil,3713,884
+Vegetable Shortening,3713,884
+Walnuts,550,131
+Whole Milk,256,61
+Whole Wheat Flour,1428,340
+Xylitol,1008,240
+Yeast (dry),1365,325
+Beef,718,171
+Beef Brisket,575,137
+Beef Fillet,794,189
+Beef Goulash,517,123
+Beef Minute Steak,559,133
+Beef Neck,895,213
+Beef Pancreas,1138,271
+Beef Patty,1037,247
+Beef Prime Rib,1697,404
+Beef Ribs,823,196
+Beef Sirloin,764,182
+Beef Suet,3587,854
+Beef Tallow,3788,902
+Beef Thymus,1340,319
+Beef Tripe,395,94
+Chuck Roast,592,141
+Chuck Steak,575,137
+Filet Mignon,869,207
+Flank Steak,815,194
+Ground Beef,1012,241
+Ground Chuck,1050,250
+Ground Round,890,212
+Minced Veal,601,143
+Porterhouse Steak,1037,247
+Rib Eye Steak,911,217
+Roast Beef,785,187
+Rump Steak,718,171
+Skirt Steak,861,205
+Stew Beef,802,191
+Strip Steak,491,117
+T-Bone-Steak,928,221
+Veal,1184,282
+Veal Breast,1184,282
+Veal Leg,886,211
+Veal Roast Beef,735,175
+Veal Shank,743,177
+Veal Shoulder,769,183
+Veal Sirloin,857,204
+Veal Tenderloin,911,217
+Ale,147,35
+Altbier,181,43
+Bass,189,45
+Beck’s,164,39
+Beer,181,43
+Blue Moon,202,48
+Bock Beer,210,50
+Buckler (N.A.),88,21
+Bud Ice,147,35
+Bud Light,122,29
+Bud Light Chelada,181,43
+Bud Light Lime,143,34
+Bud Select,118,28
+Bud Select 55,63,15
+Budweiser,172,41
+Budweiser Chelada,218,52
+Busch,155,37
+Busch Light,113,27
+Busch N.A.,71,17
+Carlsberg,134,32
+Clausthaler (N.A.),109,26
+Colt 45,185,44
+Coors,176,42
+Coors Light,122,29
+Coors N.A.,76,18
+Corona,176,42
+Dark Beer,193,46
+Genesee Cream Ale,193,46
+Ginger Beer,176,42
+Guinness,147,35
+Heineken,147,35
+Honey Brown,176,42
+Hurricane High Gravity,164,39
+IPA,214,51
+Keystone Ice,168,40
+Keystone Light,122,29
+Koelsch,181,43
+Labatt,181,43
+Lager Beer,181,43
+Land Shark,176,42
+Light Beer,122,29
+Lowenbrau,189,45
+Malt Beer,155,37
+Michelob Amber Bock,197,47
+Michelob Lager,185,44
+Michelob Light,134,32
+Michelob Ultra,113,27
+Michelob Ultra Amber,109,26
+Michelob Ultra Lime Cactus,113,27
+Miller Chill,130,31
+Miller Genuine Draft,168,40
+Miller High Life,168,40
+Miller High Life Light,130,31
+Miller Lite,113,27
+Milwaukee’s Best,151,36
+Milwaukee’s Best Light,118,28
+Molson,176,42
+Natural Ice,185,44
+Natural Light,113,27
+Newcastle,164,39
+Non-alcoholic Beer,155,37
+Old Milwaukee,172,41
+Old Milwaukee N.A.,67,16
+Olde English,189,45
+O’Doul’s (N.A.),80,19
+Pabst Blue Ribbon,172,41
+Pale Ale,176,42
+Pilsner,181,43
+Porter,227,54
+Redbridge (Gluten-free),189,45
+Rolling Rock,155,37
+Rolling Rock Light,126,30
+Root Beer,172,41
+Samuel Adams,189,45
+Shock Top,197,47
+Shock Top Raspberry Wheat,210,50
+Sierra Nevada Strong,260,62
+Sparks,311,74
+St. Pauli Girl,176,42
+Steel Reserve,265,63
+Stout,214,51
+Stout Beer,214,51
+Strong Beer,231,55
+Tilt,269,64
+Wheat Beer,189,45
+Angel Food Cake,1084,258
+Apple Cake,1058,252
+Apple Cobbler,832,198
+Apple Crisp,655,156
+Apple Crumble,655,156
+Apple Pie,995,237
+Apple Strudel,1151,274
+Apple Turnover,1462,348
+Applesauce Cake,1504,358
+Baked Alaska,1037,247
+Bakewell Tart,1806,430
+Banoffee Pie,1659,395
+Birthday Cake,1953,465
+Black and White Cookie,1600,381
+Black Forest Cake,1109,264
+Blueberry Cobbler,983,234
+Blueberry Muffin,1583,377
+Blueberry Pie,974,232
+Bundt Cake,1554,370
+Buttermilk Pie,1596,380
+Caramel Cake,1995,475
+Carrot Cake,1714,408
+Cheesecake,1348,321
+Cherry Pie,1092,260
+Chess Pie,1726,411
+Chocolate Cake,1634,389
+Chocolate Cream Pie,1277,304
+Chocolate Mousse Cake,1092,260
+Chocolate Mousse Pie,1092,260
+Chocolate Muffin,1764,420
+Coconut Cake,1495,356
+Coffee Cake,1390,331
+Cream Puff,1403,334
+Crumb Cake,1852,441
+Cupcake,1281,305
+Danish Pastry,1571,374
+Donut,1693,403
+Doughnut,1693,403
+Flan,609,145
+Flourless Chocolate Cake,2138,509
+French Cruller,1730,412
+Fruit Cake,1361,324
+Funnel Cake,1289,307
+German Chocolate Cake,1554,370
+Gingerbread,1495,356
+Ice Cream Cake,840,200
+Key Lime Pie,1508,359
+King Cake,1583,377
+Layer Cake,1688,402
+Lemon Cake,1478,352
+Lemon Meringue Pie,1126,268
+Madeira Cake,1655,394
+Marble Cake,1424,339
+Meringue,1197,285
+Opera Cake,1344,320
+Paczki,1411,336
+Pancake,953,227
+Panettone,1512,360
+Pavlova,1235,294
+Peach Cobbler,273,65
+Peach Pie,937,223
+Pecan Pie,1709,407
+Pineapple Upside-Down Cake,1340,319
+Plum Cake,458,109
+Poppy-Seed Cake,1655,394
+Pound Cake,1638,390
+Profiterole,1403,334
+Puff Pastry,2344,558
+Pumpkin Bread,1252,298
+Pumpkin Cheesecake,1428,340
+Pumpkin Pie,1021,243
+Raspberry Pie,1008,240
+Red Velvet Cake,1541,367
+Rhubarb Pie,1029,245
+Rum Cake,1474,351
+Sacher Torte,1478,352
+Sponge Cake,1214,289
+Strawberry Cheesecake,1373,327
+Strawberry Pie,966,230
+Strawberry Rhubarb Pie,1180,281
+Sweet Potato Pie,1092,260
+Swiss Roll,1844,439
+Tarte Tatin,882,210
+Tiramisu,1189,283
+Tiramisu Cake,1222,291
+Treacle Tart,1550,369
+Tres Leches Cake,1033,246
+Trifle,756,180
+Victoria Sponge Cake,1079,257
+Waffles,1310,312
+Wedding Cake,1600,381
+3 Musketeers,1680,400
+After Eight,1898,452
+Airheads,1575,375
+Almond Roca,2398,571
+Angel Delight,1894,451
+Animal Crackers,1873,446
+Baby Ruth,1970,469
+Butterfinger,1890,450
+Buttermilk Pancakes,1000,238
+Candy Apple,638,152
+Candy Cane,1777,423
+Candy canes,1777,423
+Candy Corn,1512,360
+Candy Floss,1680,400
+Caramel Popcorn,1579,376
+Caramel squares,1541,367
+Celebrations,2058,490
+Cheez-It’s,2239,533
+Chocolate,2222,529
+Chocolate Bar,2239,533
+Chocolate Chips,2071,493
+Cookies,2050,488
+Cotton Candy,2701,643
+Eggy Bread,823,196
+Fairy Cakes,1848,440
+Ferrero Rocher,2419,576
+Flapjack,2041,486
+Fortune Cookies,899,214
+Granola Bars,1898,452
+Gumdrops,1348,321
+Gummi Bears,1327,316
+Hanuta,2272,541
+Hershey Kisses,1978,471
+Jelly Beans,1487,354
+Jelly Belly,1487,354
+Jolly Ranchers,1617,385
+Jordan Almonds,1802,429
+Kit Kat,2188,521
+Laffy Taffy,1562,372
+Licorice,1575,375
+LifeSavers,2100,500
+Lindt Chocolate,2302,548
+Liquorice,1575,375
+Lollipop,1646,392
+M&M’s,2012,479
+Maltesers,2092,498
+Mars Bar,1882,448
+Marshmallows,1336,318
+Marzipan,1726,411
+Mike and Ike,1512,360
+Milk Duds,1772,422
+Milky Way,1886,449
+PayDay,1940,462
+Peanut Bar,2239,533
+Peanut Brittle,769,183
+Peanut Butter Bars,1592,379
+Peanut Butter Cookies,1995,475
+Peppermint bark,2100,500
+Pez,1793,427
+Pop Rocks,1504,358
+Popcorn,2444,582
+Pumpkin Seeds,2352,560
+Reeses Peanut Butter Cups,2251,536
+Rice Pudding,563,134
+Roasted Almonds,1898,452
+Rolo,1991,474
+Semolina,1428,340
+Skittles,1701,405
+Smarties,1499,357
+Smores,2100,500
+Snickers,2033,484
+Sour Patch Kids,1525,363
+Speculoos,1970,469
+Spritz Cookies,2100,500
+S’mores,2100,500
+Take 5,1999,476
+Toblerone,2205,525
+Trifle,781,186
+Twix,2079,495
+Waffles,1142,272
+Whoopie Pie,1680,400
+Applesauce,260,62
+Canned Apricots,202,48
+Canned Blackberries,386,92
+Canned Blueberries,370,88
+Canned Cherries,227,54
+Canned Cranberries,748,178
+Canned Crushed Pineapple,223,53
+Canned Figs,449,107
+Canned Fruit Cocktail,340,81
+Canned Fruit Salad,210,50
+Canned Gooseberries,307,73
+Canned Grapefruit,155,37
+Canned Grapes,319,76
+Canned Mandarin Oranges,298,71
+Canned Mango,273,65
+Canned Mangosteen,307,73
+Canned Mixed Fruit,298,71
+Canned Morello Cherries,340,81
+Canned Oranges,260,62
+Canned Peaches,227,54
+Canned Pears,147,35
+Canned Pineapple,252,60
+Canned Plums,244,58
+Canned Raspberries,382,91
+Canned Sliced Pineapple,223,53
+Canned Sour Cherries,479,114
+Canned Strawberries,386,92
+Canned Tangerines,256,61
+Dried Fruit,1021,243
+Amaranth,1558,371
+Barley,1487,354
+Barley Groats,420,100
+Brown Rice,1630,388
+Buckwheat,1441,343
+Buckwheat Groats,1453,346
+Corn Waffles,1151,274
+Cornmeal,1520,362
+Cornstarch,1600,381
+Couscous,1579,376
+Cracker,2108,502
+Durum Wheat Semolina,1667,397
+Flaxseed,2243,534
+Freekeh,2184,520
+Gluten,1554,370
+Grissini,1714,408
+Kamut,1415,337
+Millet,1588,378
+Millet Flour,1562,372
+Millet Gruel,193,46
+Oat Bran,1033,246
+Pearl Barley,1478,352
+Polenta,1537,366
+Prawn Crackers,2213,527
+Pretzel Sticks,1596,380
+Quinoa,1546,368
+Rusk,1722,410
+Rye Bran,1180,281
+Sago,1487,354
+Savoury Biscuits,1457,347
+Shortbread,2108,502
+Spelt,1420,338
+Spelt Bran,743,177
+Spelt Semolina,1512,360
+Sunflower Seeds,2453,584
+Tortilla,995,237
+Tortilla Chips,2096,499
+Wheat Bran,907,216
+Wheat Germ,1604,382
+Wheat Gluten,1365,325
+Wheat Semolina,1512,360
+Wheat Starch,1474,351
+Whole Grain Wheat,1424,339
+Wholegrain Oat,1575,375
+American Cheese,622,148
+Applewood,1722,410
+Asiago Cheese,1646,392
+Babybel,1399,333
+Blue Cheese,1483,353
+Brie,1403,334
+Camembert,1260,300
+Cheddar,1693,403
+Cheese Fondue,958,228
+Cheese Spread,1218,290
+Cheese Whiz,1159,276
+Chester,1625,387
+Colby Cheese,1655,394
+Colby-Jack Cheese,1655,394
+Cottage Cheese,412,98
+Dutch Cheese,1651,393
+Edam Cheese,1499,357
+Emmentaler,1499,357
+Feta,1109,264
+Fontina,1634,389
+Fresh Mozzarella,1176,280
+Gjetost,1957,466
+Goat Cheese,1529,364
+Gorgonzola,1470,350
+Gouda,1495,356
+Grated Parmesan,1810,431
+Grilled Cheese,1470,350
+Gruyere,1735,413
+Halloumi,1348,321
+Havarti,1558,371
+Italian Cheese,1667,397
+Jarlsberg,1478,352
+Maasdam Cheese,1445,344
+Manchego Cheese,1344,320
+Monterey,1567,373
+Monterey Jack Cheese,1567,373
+Mozzarella,1176,280
+Muenster Cheese,1546,368
+Neufchatel,1063,253
+Parmesan,1810,431
+Pecorino,1625,387
+Provolone,1474,351
+Raclette Cheese,1499,357
+Ricotta,731,174
+Romano,1625,387
+Roquefort,1550,369
+Sheep Cheese,1529,364
+Soft Cheese,1126,268
+Stilton Cheese,1651,393
+String Cheese,1050,250
+Swiss Cheese,1596,380
+White Cheddar,1693,403
+Wisconsin Cheese,1634,389
+Baked Ham,1441,343
+Beef Salami,1575,375
+Boiled Ham,529,126
+Bologna,1037,247
+Bresaola,748,178
+Capicola,462,110
+Chicken Breast Fillet,332,79
+Chopped Ham,756,180
+Chorizo,1911,455
+Corned Beef,1054,251
+Dutch Loaf,1126,268
+Ham,609,145
+Ham Sausage,689,164
+Head Cheese,659,157
+Hickory Ham,790,188
+Honey Ham,512,122
+Liverwurst,1369,326
+Olive Loaf,974,232
+Oven-Roasted Turkey Breast,437,104
+Parma Ham,1449,345
+Pastrami,559,133
+Pepperoni,2075,494
+Pimento Loaf,1113,265
+Pork Roast,1037,247
+Prosciutto,819,195
+Roast Beef,1121,267
+Salami,1411,336
+Serrano Ham,1260,300
+Smoked Ham,449,107
+Smoked Turkey Breast,437,104
+Summer Sausage,1252,298
+Tongue,1193,284
+Turkey Breast,437,104
+Turkey Ham,529,126
+Turkey Salami,638,152
+Chive Cream Cheese,1436,342
+Cottage Cheese,412,98
+Cream Cheese,1436,342
+Cream Cheese with Herbs,1436,342
+Feta Cream Cheese,1436,342
+Garlic Cream Cheese,1436,342
+Goat Cheese,1529,364
+Horseradish,202,48
+Mascarpone,1890,450
+Obatzda,1273,303
+Olive Cream Cheese,1436,342
+Pesto Cream Cheese,1436,342
+Philadelphia Cream Cheese,1436,342
+Pineapple Cream Cheese,1436,342
+Salmon Cream Cheese,1436,342
+Vegetable Cream Cheese,1436,342
+Walnut Cream Cheese,1436,342
+Baby Back Ribs,1088,259
+Bacon and Eggs,1058,252
+Baked Beans,395,94
+Baked Chicken,689,164
+BBQ Ribs,1071,255
+Beef Stew,399,95
+Biryani,739,176
+Black Pudding,1063,253
+Black Rice,1357,323
+BLT,1037,247
+Brown Rice,1520,362
+Burrito,685,163
+Butter Chicken,588,140
+California Roll,391,93
+Chicken Caesar Salad,533,127
+Chicken Fried Steak,634,151
+Chicken Marsala,403,96
+Chicken Parmesan,462,110
+Chicken Pot Pie,937,223
+Chicken Tikka Masala,340,81
+Chili con Carne,441,105
+Chimichanga,974,232
+Cobb Salad,496,118
+Collard Greens,118,28
+Corn Dog,1050,250
+Corned Beef Hash,689,164
+Cottage Pie,584,139
+Dal,1386,330
+Deviled Eggs,844,201
+Dim Sum,811,193
+Dosa,277,66
+Enchiladas,706,168
+Fajita,491,117
+Fish and Chips,819,195
+Fried Rice,781,186
+Fried Shrimp,1163,277
+Grilled Cheese Sandwich,1210,288
+Ham and Cheese Sandwich,1012,241
+Hummus,743,177
+Jambalaya,420,100
+Kebab,903,215
+Lasagne,554,132
+Mac and Cheese,1554,370
+Macaroni and Cheese,1554,370
+Mashed Potatoes,349,83
+Meat Pie,1016,242
+Meatloaf,1067,254
+Naan,1302,310
+Orange Chicken,1088,259
+Pad Thai,630,150
+Paella,655,156
+Paratha,1365,325
+Pea Soup,315,75
+Peanut Butter Sandwich,1714,408
+Peking Duck,945,225
+Philly Cheese Steak,1050,250
+Pizza,1121,267
+Pork Chop,945,225
+Potato Salad,601,143
+Pulled Pork Sandwich,886,211
+Ramen,1877,447
+Ravioli,853,203
+Reuben Sandwich,874,208
+Roast Beef,466,111
+Roast Dinner,832,198
+Samosa,899,214
+Sausage Roll,1470,350
+Sausage Rolls,1247,297
+Shepherds Pie,294,70
+Shrimp Cocktail,1949,464
+Sloppy Joe,298,71
+Sloppy Joes,647,154
+Spaghetti Bolognese,554,132
+Spring Roll,1050,250
+Spring Rolls,1050,250
+Taco,911,217
+Tandoori Chicken,475,113
+Yorkshire Pudding,2323,553
+Arby’s Grand Turkey Club,882,210
+Arby’s Reuben,874,208
+Arby’s Roast Beef Classic,983,234
+Arby’s Roast Beef Max,983,234
+BBQ Rib,890,212
+Bean Burrito,840,200
+Big N’ Tasty,937,223
+Bratwurst,1399,333
+Burger King Angry Whopper,1071,255
+Burger King Double Whopper,1004,239
+Burger King Double Whopper with Cheese,1046,249
+Burger King Original Chicken Sandwich,1264,301
+Burger King Premium Alaskan Fish Sandwich,1088,259
+Burger King Triple Whopper,1130,269
+Burger King Whopper,970,231
+Burger King Whopper Jr.,983,234
+Burger King Whopper with Cheese,1012,241
+Cheeseburger,1105,263
+Chicken Breast,685,163
+Chicken Fajita,617,147
+Chicken McNuggets,1268,302
+Chicken Nuggets,1243,296
+Chicken Pizziola,592,141
+Chicken Sandwich,1012,241
+Chicken Teriyaki Sandwich,580,138
+Chicken Wings,1361,324
+Chop Suey,722,172
+Curly Fries,1306,311
+Double Cheeseburger,1121,267
+Egg Roll,1050,250
+Falafel,1407,335
+Filet-o-Fish,1184,282
+Fish and Chips,819,195
+Fish Sandwich,1147,273
+French Fries,1310,312
+Grilled Chicken Salad,370,88
+Ham Sandwich,1012,241
+Hamburger,1067,254
+Hot Dog,1130,269
+Italian BMT,769,183
+Lasagna,554,132
+McDonald’s Big Mac,1075,256
+McDonald’s Cheeseburger,1105,263
+McDonald’s Chicken Nuggets,1247,297
+McDonald’s Double Cheeseburger,1184,282
+McDonald’s Filet-o-Fish,1155,275
+McDonald’s McChicken,1054,251
+McDonald’s McDouble,1058,252
+McDonald’s McMuffi Egg,945,225
+McDonald’s McRib,1113,265
+McDonald’s Mighty Wings,1294,308
+McRib,1113,265
+Meatball Sandwich,676,161
+Nachos with Cheese,1285,306
+Onion Rings,1726,411
+Poutine,953,227
+Smoked Salmon,664,158
+Spicy Italian,920,219
+Subway Club Sandwich,550,131
+Tortilla Wrap,1138,271
+Tuna,361,86
+Turkey,437,104
+Veggie Burger,760,181
+Veggie Delight,580,138
+Veggie Patty,1638,390
+Wendy’s Baconator,1277,304
+Wendy’s Jr. Bacon Cheeseburger,1096,261
+Wendy’s Jr. Cheeseburger,945,225
+Wendy’s Son of Baconator,1348,321
+Whopper,970,231
+Zinger,1075,256
+Zinger Burger,1075,256
+Anchovy,550,131
+Bluefish,668,159
+Bream,567,135
+Butterfish,785,187
+Calamari,735,175
+Carp,680,162
+Caviar,1109,264
+Clam,622,148
+Cod,441,105
+Crawfish,344,82
+Crayfish,365,87
+Eel,991,236
+Fish Fingers,1218,290
+Fish Sticks,1218,290
+Flounder,361,86
+Grouper,496,118
+Haddock,378,90
+Hake,298,71
+Halibut,466,111
+Herring,853,203
+Hoki,508,121
+Kipper,911,217
+Ling,458,109
+Lobster,374,89
+Mackerel,1100,262
+Milkfish,798,190
+Monkfish,407,97
+Mullet,630,150
+Mussel,722,172
+Octopus,689,164
+Pickerel,466,111
+Pickled Herring,1100,262
+Pike,475,113
+Plaice,382,91
+Pollack,466,111
+Red Snapper,538,128
+Redfish,395,94
+Rollmops,718,171
+Salmon,865,206
+Sardines,874,208
+Scallops,466,111
+Scampi,353,84
+Sea Bass,521,124
+Shad,1058,252
+Shark,546,130
+Smelt,521,124
+Sole,361,86
+Squid,386,92
+Sturgeon,567,135
+Sushi,630,150
+Swordfish,722,172
+Triggerfish,391,93
+Trout,798,190
+Tuna,554,132
+Tuna Salad,785,187
+Turbot,512,122
+Wahoo,701,167
+Whitefish,722,172
+Whiting,487,116
+Zander,353,84
+Acai,294,70
+Apple,218,52
+Applesauce,286,68
+Apricot,202,48
+Avocado,672,160
+Banana,374,89
+Blackberries,181,43
+Blood Oranges,210,50
+Blueberries,239,57
+Cantaloupe,143,34
+Cherries,210,50
+Clementine,197,47
+Cranberries,193,46
+Currants,235,56
+Custard Apple,424,101
+Dates,1184,282
+Figs,311,74
+Fruit salad,210,50
+Grapes,290,69
+Greengage,172,41
+Guava,286,68
+Jackfruit,399,95
+Jujube,332,79
+Kiwi,256,61
+Lemon,122,29
+Lime,126,30
+Lychees,277,66
+Mandarin Oranges,223,53
+Mango,252,60
+Minneola,269,64
+Mulberries,181,43
+Nectarine,185,44
+Olives,483,115
+Orange,197,47
+Papaya,181,43
+Passion Fruit,407,97
+Peach,164,39
+Pear,239,57
+Persimmon,533,127
+Physalis,206,49
+Pineapple,210,50
+Plantains,512,122
+Plum,193,46
+Pomegranate,349,83
+Quince,239,57
+Raisins,1256,299
+Rambutan,344,82
+Raspberries,218,52
+Rhubarb,88,21
+Starfruit,130,31
+Strawberries,134,32
+Tamarind,1004,239
+Tangerine,223,53
+Watermelon,126,30
+Almond Extract,1571,374
+Anise,1415,337
+Anise Seed,1415,337
+Arrowroot,273,65
+Arugula,105,25
+Balsamic Vinegar,370,88
+Basil,979,233
+Black Pepper,1054,251
+Black Sesame Seeds,2407,573
+Broth,420,100
+Capers,97,23
+Caraway Seeds,1399,333
+Cardamom,1306,311
+Cassava,672,160
+Cayenne Pepper,1336,318
+Chard,80,19
+Chicory Greens,97,23
+Chicory Roots,302,72
+Chili,1184,282
+Chili Powder,1184,282
+Chives,126,30
+Cider Vinegar,88,21
+Cilantro,97,23
+Cinnamon,1037,247
+Cloves,1151,274
+Coriander,97,23
+Cream of Tartar,1084,258
+Cress,134,32
+Crystallized Ginger,1407,335
+Cumin,1575,375
+Cumin Seed,1575,375
+Curry,1365,325
+Dandelion,189,45
+Dill,181,43
+Dill Weed,181,43
+Fennel,130,31
+Fennel Seed,1449,345
+Fenugreek,1357,323
+Garlic,626,149
+Garlic Powder,1390,331
+Garlic Salt,0,0
+Ginger,336,80
+Grape Leaves,391,93
+Ground Ginger,1407,335
+Horseradish,202,48
+Hot Pepper,1336,318
+Iodized Salt,0,0
+Jalapeno,55,13
+Juniper,189,45
+Lemon Grass,416,99
+Licorice,1575,375
+Maggi,437,104
+Marjoram,1138,271
+Minced Onion,168,40
+Mint,294,70
+Mustard Seed,2134,508
+Nutmeg,2205,525
+Okra,139,33
+Onion,168,40
+Onion Powder,1432,341
+Orange Peel,407,97
+Oregano,1113,265
+Paprika,1184,282
+Parsley,151,36
+Parsnip,315,75
+Pepper,1054,251
+Poppy Seed,2205,525
+Poultry Seasoning,1289,307
+Pumpkin Pie Spice,1436,342
+Red Pepper,1054,251
+Red Wine Vinegar,80,19
+Rosemary,550,131
+Saffron,1302,310
+Sage,1323,315
+Salt,0,0
+Savory,1142,272
+Sea Salt,0,0
+Serrano Pepper,134,32
+Sesame Seeds,2407,573
+Stevia,0,0
+Tamarind,1004,239
+Taro,470,112
+Tarragon,1239,295
+Thyme,1159,276
+Turmeric,1487,354
+Vanilla Bean,1050,250
+Vanilla Extract,1210,288
+Vinegar,76,18
+White Pepper,1243,296
+Yam,496,118
+Baskin-Robbins,1004,239
+Ben and Jerry’s,958,228
+Butter Pecan Ice Cream,1042,248
+Carvel,890,212
+Chocolate Chip Ice Cream,903,215
+Chocolate Ice Cream,907,216
+Ciao Bella,458,109
+Coffee Ice Cream,991,236
+Cold Stone Creamery,974,232
+Cookie Dough Ice Cream,840,200
+Crunchie McFlurry,731,174
+Dairy Milk McFlurry,781,186
+Dippin Dots,941,224
+Double Rainbow,1079,257
+Drumsticks,1071,255
+French Vanilla Ice Cream,844,201
+Friendly’s,890,212
+Healthy Choice,525,125
+Hot Fudge Sundae,781,186
+Ice Cream Sandwich,995,237
+Ice Cream Sundae,596,142
+Ice Milk,668,159
+Magnolia,966,230
+Magnum,1260,300
+Magnum Almond,1323,315
+Magnum Double Caramel,1491,355
+Magnum Double Chocolate,1596,380
+Magnum Gold,1432,341
+Magnum White,1247,297
+McFlurry,643,153
+McFlurry Oreo,781,186
+Mini Milk,504,120
+Mint Chocolate Chip Ice Cream,1004,239
+Rocky Road Ice Cream,1079,257
+Schwan’s,1033,246
+Smarties McFlurry,832,198
+Snickers Ice Cream,1512,360
+Soft Serve,932,222
+Solero,420,100
+Strawberry Ice Cream,991,236
+Strawberry Sundae,664,158
+Sundae,903,215
+Turkey Hill,1138,271
+Vanilla Cone,680,162
+Vanilla Ice Cream,844,201
+Azuki Bean,521,124
+Bamboo Shoots,113,27
+Bean Curd,319,76
+Bean Sprouts,126,30
+Bengal Gram,1529,364
+Black Beans,1432,341
+Black Chickpeas,1529,364
+Black Gram,1432,341
+Brown Lentil,1483,353
+Butternut,2570,612
+Chickpeas,1529,364
+Chili Bean,407,97
+Dal,966,230
+Deep-Fried Tofu,1138,271
+Extra-Firm Tofu,382,91
+Firm Tofu,294,70
+Flageolet,357,85
+Fried Bean Curd,1138,271
+Green Beans,130,31
+Green Gram,1457,347
+Green Lentil,1079,257
+Kidney Beans,1415,337
+Lentils,1483,353
+Lima Beans,298,71
+Marron,882,210
+Miso,836,199
+Mung Beans,50,12
+Natto,890,212
+Navy Bean,1415,337
+Okara,323,77
+Okra,139,33
+Peanuts,2381,567
+Peas,176,42
+Pecan,2902,691
+Pinto Beans,1457,347
+Puy Lentils,1449,345
+Rajma,588,140
+Red Beans,521,124
+Red Kidney Bean,1415,337
+Red Lentils,1382,329
+Refried Beans,382,91
+Roasted Soybeans,1978,471
+Silken Tofu,231,55
+Soft Tofu,256,61
+Soy Cheese,987,235
+Soy Mayonnaise,1352,322
+Soy Nut Butter,2360,562
+Soy Nuts,1978,471
+Soy Yogurt,277,66
+Soya Cheese,987,235
+Soybeans,617,147
+Soynut Butter,2360,562
+Sugar Peas,176,42
+Sweet Peas,202,48
+Tempeh,811,193
+Textured Soy Protein,2398,571
+Textured Vegetable Protein,1399,333
+Tofu,319,76
+White Beans,1411,336
+Yam Bean,160,38
+Yellow Lentils,1277,304
+Yuba,739,176
+Alligator,974,232
+Beef,1042,248
+Beef Brisket,1016,242
+Beef Jerky,1722,410
+Beef Ribs,1000,238
+Beef Tenderloin,916,218
+Chicken,920,219
+Chicken Breast,722,172
+Chicken Drumstick,777,185
+Chicken Fat,3772,898
+Chicken Giblets,664,158
+Chicken Gizzards,613,146
+Chicken Leg,731,174
+Chicken Liver,701,167
+Chicken Meat,722,172
+Chicken Thigh,962,229
+Chicken Wing,1117,266
+Chuck Steak,1163,277
+Cubed Steak,836,199
+Duck,1415,337
+Filet Mignon,1121,267
+Flank Steak,815,194
+Flat Iron Steak,575,137
+Ground Beef,1033,246
+Ground Round,1033,246
+Ham,685,163
+New York Strip Steak,836,199
+Ostrich,609,145
+Pork,823,196
+Pork Baby Back Ribs,890,212
+Pork Chops,823,196
+Pork Country-Style Ribs,1037,247
+Pork Loin,857,204
+Pork Roast,1067,254
+Pork Steaks,823,196
+Roast Beef,588,140
+Round Steak,764,182
+Schnitzel,655,156
+Spare Ribs,1000,238
+Standing Rib Roast,1399,333
+T-Bone Steak,848,202
+Turkey,794,189
+Turkey Breast,567,135
+Turkey Legs,874,208
+Turkey Steak,794,189
+Turkey Wings,928,221
+Almond Milk,71,17
+Buttermilk,260,62
+Chocolate Mousse,945,225
+Coconut Milk,966,230
+Coffee Creamer,819,195
+Condensed Milk,1348,321
+Cottage Cheese,412,98
+Cream,1016,242
+Creme Fraiche,1651,393
+Curd,412,98
+Custard,512,122
+Evaporated Milk,567,135
+Goat Milk,290,69
+Hot Chocolate,374,89
+Kefir,231,55
+Lactose-free Milk,218,52
+Lassi,315,75
+Milk,256,61
+Plain Yogurt,256,61
+Powdered Milk,2083,496
+Quark,609,145
+Rice Milk,206,49
+Rice Pudding,496,118
+Semi-skimmed Milk,210,50
+Semolina Pudding,281,67
+Skim Milk,147,35
+Sour Cream,760,181
+Soy Milk,189,45
+Sweetened Condensed Milk,1348,321
+Tzatziki,491,117
+Whipped Cream,1079,257
+Whole Milk,256,61
+Yogurt,256,61
+ACE Drink,185,44
+Apple Spritzer,101,24
+Chai,0,0
+Chai Tea,0,0
+Chocolate Milk,374,89
+Chocolate Milkshake,525,125
+Club Mate,126,30
+Coca Cola,176,42
+Coffee,4,1
+Coke Zero,4,1
+Cola,176,42
+Crystal Light,1105,263
+Diet Coke,4,1
+Egg Cream,395,94
+Egg Nog,370,88
+Elderflower Cordial,122,29
+Evian,0,0
+Gatorade,97,23
+Ginger Tea,0,0
+Hawaiian Punch,130,31
+Hi-C,206,49
+Horchata,227,54
+Hot Chocolate,374,89
+Ice Tea,113,27
+Iced Tea,113,27
+Karamalz,155,37
+Kombucha,55,13
+Kool-Aid,109,26
+Lassi,437,104
+Latte Macchiato,239,57
+Lemonade,176,42
+Malt Beer,155,37
+Milk,256,61
+Milkshake (dry),1382,329
+Milo,1718,409
+Nectar,223,53
+Nestea,151,36
+Non-alcoholic Beer,155,37
+Powerade,67,16
+Slurpee,17,4
+Slush Puppie,210,50
+Smoothie,155,37
+Soy Milk,189,45
+Strawberry Milkshake,475,113
+Tang,1600,381
+Tap Water,0,0
+Tea,4,1
+Vanilla Milkshake,626,149
+Volvic,0,0
+Water,0,0
+Yerba Mate,260,62
+Acorn,1625,387
+Alfalfa Sprouts,97,23
+Almonds,2415,575
+Beechnut,2419,576
+Brazil Nuts,2755,656
+Breadfruit,802,191
+Butternut,2570,612
+Cashew,2323,553
+Chestnut,895,213
+Chia Seeds,2041,486
+Coconut,1487,354
+Cotton Seeds,2125,506
+Flaxseed,2243,534
+Ginkgo Nuts,764,182
+Goa Bean,1718,409
+Hazelnut,2638,628
+Hickory Nuts,2759,657
+Lima Beans,298,71
+Lotus Seed,374,89
+Macadamia Nuts,3016,718
+Peanuts,2381,567
+Peas,340,81
+Pecan Nuts,2902,691
+Pecans,2902,691
+Pili Nuts,3020,719
+Pine Nuts,2827,673
+Pinto Beans,1457,347
+Pistachios,2360,562
+Poppy Seeds,2205,525
+Pumpkin Seeds,2348,559
+Radish Seeds,181,43
+Safflower Seeds,2171,517
+Sesame Seeds,2407,573
+Smoked Almonds,2415,575
+Soy Beans,617,147
+Sunflower Seeds,2453,584
+Sweet Chestnut,815,194
+Walnuts,2747,654
+Watermelon,126,30
+Bran Flakes,1495,356
+Cap’n Crunch,1697,404
+Cheerios,1457,347
+Chex,1625,387
+Chocolate Cheerios,1541,367
+Chocos,1596,380
+Cinnamon Toast Crunch,1819,433
+Coco Pops,1579,376
+Cocoa Krispies,1621,386
+Cocoa Pebbles,1541,367
+Cocoa Puffs,1680,400
+Cookie Crisp,1680,400
+Corn Flakes,1499,357
+Corn Pops,1583,377
+Count Chocula,1709,407
+Cracklin Oat Bran,1688,402
+Cream of Wheat,1529,364
+Crunchy Nut,2520,600
+Crunchy Nut Cornflakes,2520,600
+Fiber One,1121,267
+Froot Loops,1592,379
+Frosted Cheerios,1651,393
+Frosted Flakes,1541,367
+Frosted Mini-Wheats,1483,353
+Frosties,1541,367
+Fruity Pebbles,1680,400
+Golden Grahams,1680,400
+Grape-Nuts,1520,362
+Honey Nut Cheerios,1651,393
+Honey Smacks,1554,370
+Honeycomb,1667,397
+Just Right,1642,391
+Kashi,1583,377
+Kelloggs Corn Flakes,1499,357
+Kix,1541,367
+Krave,1562,372
+Life Cereal,1575,375
+Lucky Charms,1705,406
+Malt-O-Meal,214,51
+Mini-Wheats,1483,353
+Muesli,1411,336
+Multigrain Cheerios,1596,380
+Nutri-Grain,1474,351
+Oatibix,1768,421
+Oatmeal,1575,375
+Peanut Butter Toast Crunch,1810,431
+Post Raisin Bran,1352,322
+Post Shredded Wheat,1457,347
+Puff,1541,367
+Puffed Rice,1609,383
+Puffed Wheat,1541,367
+Quaker Grits,1445,344
+Quaker Oatmeal,1575,375
+Quaker Oatmeal Squares,1680,400
+Raisin Bran,1352,322
+Raisin Bran Crunch,1491,355
+Raisin Nut Bran,1541,367
+Ready Brek,1508,359
+Rice Chex,1625,387
+Rice Krispies,1655,394
+Scooters,1541,367
+Shredded Wheat,1428,340
+Shreddies,1474,351
+Smart Start,1558,371
+Special K,1583,377
+Special K Chocolatey Delight,1630,388
+Special K Protein Plus,1575,375
+Special K Red Berries,1449,345
+Sugar Puffs,1592,379
+Toasties,1516,361
+Trix,1680,400
+Weet-Bix,1483,353
+Weetabix,1504,358
+Weetos,1588,378
+Wheaties,1541,367
+Beef Brain,823,196
+Beef Heart,693,165
+Beef Kidney,664,158
+Beef Liver,802,191
+Beef Lung,504,120
+Beef Melt,1138,271
+Beef Tongue,1193,284
+Calf Brain,571,136
+Calf Liver,806,192
+Calf Lung,437,104
+Calf Melt,1075,256
+Chicken Giblets,1163,277
+Chicken Heart,777,185
+Chicken Liver,722,172
+Chicken Stomach,622,148
+Chitterlings,979,233
+Duck Liver,571,136
+Goose Liver,559,133
+Hog Maws,659,157
+Pig Brain,580,138
+Pig Heart,622,148
+Pig Kidney,634,151
+Pig Lung,416,99
+Pork Liver,693,165
+Pork Melt,920,219
+Pork Tongue,1138,271
+Turkey Giblets,727,173
+Turkey Heart,731,174
+Turkey Liver,794,189
+Turkey Stomach,622,148
+Veal Heart,781,186
+Veal Kidney,685,163
+Veal Tongue,848,202
+Almond Oil,3704,882
+Avocado Oil,3599,857
+Butter,3024,720
+Canola Oil,3713,884
+Coconut Oil,3599,857
+Cod Liver Oil,4200,1000
+Corn Oil,3360,800
+Cottonseed Oil,3704,882
+Flaxseed Oil,3713,884
+Ghee,504,120
+Goose Fat,3772,898
+Grape Seed Oil,3713,884
+Hemp Oil,3389,807
+Herring Oil,3788,902
+I can\’t believe it\’s not Butter,1499,357
+Lard,3788,902
+Macadamia Oil,3440,819
+Margarine,3011,717
+Mustard Oil,3713,884
+Olive Oil,3713,884
+Palm Oil,3704,882
+Peanut Oil,3599,857
+Real Butter,3024,720
+Rice Bran Oil,3734,889
+Safflower Oil,3599,857
+Sardine Oil,3788,902
+Sesame Oil,3713,884
+Soybean Oil,3734,889
+Sunflower Oil,3713,884
+Walnut Oil,3734,889
+Cannelloni,613,146
+Capellini,1483,353
+Cappelletti,689,164
+Cellophane Noodles,1474,351
+Cheese Tortellini,1222,291
+Dampfnudel,1151,274
+Dumpling Dough,416,99
+Durum Wheat Semolina,1667,397
+Egg Noodles,1613,384
+Farfalle,1504,358
+Fettuccine,1483,353
+Fusilli,1478,352
+Glass Noodles,806,192
+Lasagne Sheets,1138,271
+Linguine,1499,357
+Low Carb Pasta,1184,282
+Macaroni,1554,370
+Manicotti,1499,357
+Mostaccioli,773,184
+Orecchiette,1554,370
+Orzo,1499,357
+Penne,1474,351
+Penne Rigate,1554,370
+Pierogi,840,200
+Ravioli,323,77
+Rigatoni,1483,353
+Rotini,1483,353
+Shells,1483,353
+Shirataki Noodles,76,18
+Soy Noodles,907,216
+Spaetzle,1546,368
+Spaghetti,1554,370
+Spinach Tortellini,1319,314
+Spirelli,1541,367
+Tagliatelle,1554,370
+Tortellini,1222,291
+Vermicelli,1546,368
+Whole Grain Noodles,1457,347
+Whole Grain Spaghetti,1474,351
+Ziti,1478,352
+Apple Pie,995,237
+Apple Turnover,1462,348
+Bagel,1079,257
+Baguette,1151,274
+Banana Bread,1369,326
+Banana Nut Bread,1369,326
+Beer Bread,953,227
+Biscuit,1130,269
+Black Bread,1050,250
+Bran Muffins,1134,270
+Bread Pudding,643,153
+Breadsticks,1680,400
+Brioche,1453,346
+Brown Bread,1033,246
+Brownies,1701,405
+Bun,1327,316
+Cannoli,1067,254
+Caramel Cake,1617,385
+Challah,1189,283
+Chapati,1008,240
+Ciabatta,1138,271
+Cinnamon Bun,1831,436
+Coffee Cake,1756,418
+Conchas/Mexican Sweet Bread,1483,353
+Cornbread,752,179
+Crepes,941,224
+Croissant,1705,406
+Crumpet,748,178
+Cupcakes,1281,305
+Donut/Doughnut,1768,421
+Dosa,878,209
+Empanada,1407,335
+English Muffin,953,227
+Flatbread,1306,311
+Focaccia,1046,249
+Garlic Bread,1470,350
+Hot Dog Buns,1172,279
+Italian Bread,1138,271
+Latkes,794,189
+Matzo Bread,1474,351
+Monkey Bread,1218,290
+Muffin,1243,296
+Multi-Grain Bread,1113,265
+Naan,1155,275
+Oatmeal Cookies,1890,450
+Oatmeal Raisin Cookies,1827,435
+Pan de Sal,1231,293
+Pancake,979,233
+Pandesal,1231,293
+Panettone,1336,318
+Pide,1126,268
+Pie,995,237
+Pita Bread,1155,275
+Potato Bread,1117,266
+Pretzel,1420,338
+Pretzel Roll,1420,338
+Puff Pastry,2344,558
+Pumpernickel,1050,250
+Raisin Bread,1151,274
+Roll,1327,316
+Roti,1109,264
+Rye Bread,1088,259
+Sandwich,1277,304
+Sandwich Bread,1054,251
+Scone,1520,362
+Shortcrust Pastry,2285,544
+Soda Bread,1218,290
+Soufflé,857,204
+Sourdough Bread,1214,289
+Spanakopita,1033,246
+Spice Cake,1394,332
+Sweet Rolls,1399,333
+Swiss Roll,1315,313
+Toast,1096,261
+Tortilla,1247,297
+Tortilla Bread,1113,265
+White Bread,1000,238
+Whole Wheat Bread,1037,247
+BBQ Chicken Pizza,983,234
+BBQ Pizza,941,224
+Beef Pizza,1277,304
+Bianca Pizza,1033,246
+Buffalo Chicken Pizza,1058,252
+Calabrese Pizza,987,235
+Calzone,970,231
+Capricciosa Pizza,1092,260
+Cheese Pizza,1121,267
+Chicken Pizza,983,234
+Deep Dish Pizza,1113,265
+Dominos Philly Cheese Steak Pizza,941,224
+Four Cheese Pizza,928,221
+Goat Cheese Pizza,920,219
+Grilled Pizza,949,226
+Hawaiian Pizza,483,115
+Margherita Pizza,1155,275
+Mozzarella Pizza,1046,249
+Mushroom Pizza,890,212
+Napoli Pizza,848,202
+New York Style Pizza,710,169
+Pepperoni Pizza,1071,255
+Pizza Dough,958,228
+Pizza Hut Stuffed Crust Pizza,1071,255
+Pizza Hut Supreme Pizza,1042,248
+Pizza Rolls,1037,247
+Quattro Formaggi Pizza,1042,248
+Red Pepper Pizza,806,192
+Salami Pizza,1071,255
+Sausage Pizza,1033,246
+Seafood Pizza,1029,245
+Shrimp Pizza,878,209
+Sicilian Pizza,1012,241
+Spinach Feta Pizza,1016,242
+Spinach Pizza,983,234
+Stuffed Crust Pizza,1071,255
+Tarte Flambée,1063,253
+Thin Crust Pizza,1096,261
+Tuna Pizza,1067,254
+Vegetable Pizza,1075,256
+Vegetarian Pizza,1075,256
+Veggie Pizza,970,231
+White Pizza,1033,246
+Bacon,1709,407
+Brawn,1298,309
+Canadian-Style Bacon,449,107
+Chitterlings,979,233
+Ground Pork,1105,263
+Hog Maws,1050,250
+Lard,3772,898
+Meatloaf,374,89
+Parma Ham,1096,261
+Pig Ear,697,166
+Pig Fat,2680,638
+Pig’s Tail,1663,396
+Pig’s Trotter,1021,243
+Pork Bacon,1709,407
+Pork Belly,2176,518
+Pork Blade Steak,974,232
+Pork Chop,517,123
+Pork Country-Style Ribs,559,133
+Pork Crown Roast,890,212
+Pork Cutlet,550,131
+Pork Cutlets,550,131
+Pork Leg,844,201
+Pork Loin,601,143
+Pork Meatloaf,1021,243
+Pork Ragout,307,73
+Pork Rib Roast,668,159
+Pork Ribs,1226,292
+Pork Roast,815,194
+Pork Sausage,1424,339
+Pork Shank,722,172
+Pork Shoulder,1130,269
+Pork Shoulder Blade,974,232
+Pork Stomach,1050,250
+Rack of Pork,1012,241
+Salt Meat,1201,286
+Salt Pork,1201,286
+Serrano Ham,1424,339
+Spare Ribs,1663,396
+Spareribs,1000,238
+All-blue Potatoes,256,61
+Baked Potato,391,93
+Boiled Potatoes,365,87
+Cassava,672,160
+Croquettes,533,127
+Dumpling Dough,521,124
+Dumplings,521,124
+French Fingerling Potatoes,344,82
+French Fries,1310,312
+Fried Potatoes,1310,312
+Gnocchi,559,133
+Japanese Sweet Potatoes,365,87
+Marrow Dumplings,1781,424
+Mashed Potatoes,374,89
+Norland Red Potatoes,374,89
+Omelette,647,154
+Potato,323,77
+Potato Dumpling,521,124
+Potato Fritter,777,185
+Potato Gratin,554,132
+Potato Pancakes,1126,268
+Potato Salad,601,143
+Potato Starch,1390,331
+Potato Sticks,2192,522
+Potato Waffles,701,167
+Potato Wedges,517,123
+Potatoes au Gratin,554,132
+Purple Majesty Potatoes,302,72
+Red Gold Potatoes,374,89
+Red Potatoes,374,89
+Roast Potatoes,626,149
+Rosemary Potatoes,391,93
+Russet Potatoes,407,97
+Russian Banana Potatoes,281,67
+Rösti,580,138
+Sweet Potato,386,92
+White Potatoes,395,94
+Yams,487,116
+Yukon Gold Potatoes,344,82
+Capon,962,229
+Chicken,920,219
+Chicken Breast,722,172
+Chicken Drumsticks,777,185
+Chicken Gizzards,647,154
+Chicken Legs,731,174
+Chicken Thighs,962,229
+Chicken Wings,1117,266
+Cornish Hens,1088,259
+Dove,895,213
+Duck,1415,337
+Duck Breast,844,201
+Emu,638,152
+Goose,1281,305
+Guinea-Fowl,664,158
+Ostrich,609,145
+Ostrich Meat,609,145
+Pheasant,1004,239
+Pheasant Breast,559,133
+Pheasant Leg,1004,239
+Pigeon,596,142
+Poularde,840,200
+Quail,953,227
+Quail Breast,517,123
+Rhea,672,160
+Turkey,794,189
+Turkey Breast,567,135
+Turkey Cutlet,794,189
+Turkey Drumsticks,874,208
+Turkey Legs,874,208
+Turkey Steak,794,189
+Turkey Wings,928,221
+Wild Duck,886,211
+1000 Island Dressing,1554,370
+Ajvar,76,18
+Arrabiata Sauce,151,36
+Balsamic Vinaigrette Dressing,1218,290
+Barbecue Sauce,630,150
+Bechamel Sauce,945,225
+Bernaise Sauce,1739,414
+Blue Cheese Dressing,2239,533
+Bolognese,445,106
+Buttermilk Ranch Dressing,2239,533
+Caesar Dressing,1802,429
+Catalina Dressing,1184,282
+Chasseur Sauce,189,45
+Chili Sauce,470,112
+Cream Sauce,756,180
+Curry Ketchup,521,124
+Curry Sauce,109,26
+French Dressing,252,60
+Gravy,223,53
+Greek Dressing,1961,467
+Hamburger Sauce,1609,383
+Harissa,218,52
+Hollandaise Sauce,2247,535
+Honey Mustard Dressing,1949,464
+Horseradish,202,48
+Italian Dressing,1231,293
+Ketchup,420,100
+Mayonnaise,2906,692
+Mustard,252,60
+Mustard Sauce,2709,645
+Orange Sauce,752,179
+Pesto,1924,458
+Ranch Dressing,2142,510
+Remoulade Sauce,2667,635
+Russian Dressing,1680,400
+Salad Dressing,1886,449
+Sambal Oelek,88,21
+Sesame Ginger Dressing,1949,464
+Sesame Paste,2499,595
+Sour Cream,911,217
+Sour Cream Sauce,252,60
+Soy Sauce,281,67
+Sweet and Sour Sauce,752,179
+Tabasco,294,70
+Teriyaki Sauce,374,89
+Thai Curry Paste,651,155
+Tomato Paste,344,82
+Tomato Puree,160,38
+Tomato Sauce,101,24
+Tzatziki,395,94
+Vinaigrette,504,120
+Worcestershire Sauce,328,78
+Yogurt Dressing,189,45
+Zesty Italian Dressing,1121,267
+Andouille,974,232
+Bacon,1709,407
+Black Pudding,1592,379
+Blood Sausage,1592,379
+Bockwurst,1264,301
+Boiled Ham,437,104
+Bologna,1037,247
+Boudin,815,194
+Bratwurst,1247,297
+Brawn,659,157
+Breakfast Sausage Links,1424,339
+Cheese Pastry,1571,374
+Chicken Breast,332,79
+Chicken Meat,332,79
+Chicken Salad,340,81
+Chorizo,1911,455
+Cooked Ham,559,133
+Corned Beef,643,153
+Cumberland Sausage,1050,250
+Frankfurters,1281,305
+Garlic Sausage,710,169
+Hot Dogs,1168,278
+Hot Sausage,1088,259
+Italian Sausage,626,149
+Jerky,1722,410
+Kielbasa,1298,309
+Knackwurst,1289,307
+Landjaeger,1478,352
+Linguica,1184,282
+Liver Pate,1340,319
+Liverwurst,1369,326
+Luncheon Meat,491,117
+Mettwurst,1302,310
+Mortadella,1306,311
+Pastrami,559,133
+Pepperoni,2075,494
+Polish Sausage,1264,301
+Pork,1037,247
+Pork Roll,1268,302
+Prosciutto,819,195
+Ring Bologna,1201,286
+Salami,1411,336
+Sausage,966,230
+Smoked Sausage,1264,301
+Souse,659,157
+Spam,1323,315
+Weisswurst,1315,313
+American Cheese,622,148
+Applewood,1722,410
+Bergkäse,1756,418
+Butter Cheese,1630,388
+Cheddar,1693,403
+Cheese Platter,1499,357
+Cheese Slices,1495,356
+Colby Cheese,1655,394
+Colby-Jack Cheese,1655,394
+Cold Pack Cheese,1033,246
+Edam,1499,357
+Edam Cheese,1499,357
+Emmental,1499,357
+Emmentaler,1499,357
+Esrom (Cheese),1352,322
+Fol Epi,1630,388
+Fresh Mozzarella,1176,280
+Gouda,1495,356
+Gouda Cheese,1495,356
+Havarti,1558,371
+Lacy Swiss Cheese,1348,321
+Leerdammer,1193,284
+Leerdammer Cheese,1193,284
+Maasdam Cheese,1445,344
+Monterey Jack Cheese,1567,373
+Mozzarella,1176,280
+Muenster Cheese,1546,368
+Pepper Cheese,420,100
+Sandwich Cheese,622,148
+Smoked Cheese,1722,410
+Tilsit,1428,340
+White American,622,148
+White Cheddar,1693,403
+Young Gouda,1495,356
+7up,185,44
+Barq’s,193,46
+Bitter Lemon,143,34
+Canada Dry Ginger Ale,172,41
+Cherry Coke,185,44
+Coke,176,42
+Coke Zero,0,0
+Diet Cherry Coke,4,1
+Diet Coke,4,1
+Diet Dr. Pepper,0,0
+Diet Pepsi,0,0
+Diet Sunkist,0,0
+Dr. Brown’s,223,53
+Dr. Pepper,113,27
+Fanta,164,39
+Fanta Zero,0,0
+Five Alive,147,35
+Fresca,0,0
+Full Throttle,462,110
+Fuze,84,20
+Fuze Tea,105,25
+Gatorade,105,25
+Ginger Ale,147,35
+Ice Tea,113,27
+Jolt Cola,185,44
+Kool-Aid,109,26
+Lemonade,176,42
+Mello Yello,206,49
+Minute Maid,193,46
+Minute Maid Light,8,2
+Mug Root Beer,176,42
+Orange Soda,202,48
+Pepsi,185,44
+Pibb Xtra,168,40
+Powerade,504,120
+Schweppes Ginger Ale,160,38
+Soda,223,53
+Sprite,155,37
+Sprite Zero,0,0
+Squirt,185,44
+Sunkist,105,25
+Surge,202,48
+TaB,0,0
+Tonic Water,147,35
+Vanilla Coke,189,45
+Alphabet Soup,105,25
+Bean Stew,559,133
+Beef Bouillon,13,3
+Beef Noodle Soup,143,34
+Beef Soup,139,33
+Bouillon,67,16
+Broccoli Cheese Soup,365,87
+Broccoli Soup,365,87
+Cabbage Soup,118,28
+Carrot Ginger Soup,105,25
+Carrot Soup,105,25
+Chicken Bouillon,17,4
+Chicken Broth,67,16
+Chicken Gumbo Soup,97,23
+Chicken Noodle Soup,105,25
+Chicken Stock,67,16
+Chicken Vegetable Soup,130,31
+Chicken with Rice Soup,101,24
+Cream of Asparagus Soup,147,35
+Cream of Broccoli Soup,189,45
+Cream of Celery Soup,155,37
+Cream of Chicken Soup,202,48
+Cream of Mushroom Soup,164,39
+Cream of Onion Soup,185,44
+Cream of Potato Soup,126,30
+Creamy Chicken Noodle Soup,97,23
+French Onion Soup,97,23
+Golden Mushroom Soup,273,65
+Goulash,4238,1009
+Instant Ramen,1831,436
+Lentil Soup,235,56
+Lobster Bisque Soup,420,100
+Meatball Soup,206,49
+Minestrone,143,34
+Mushroom Soup,147,35
+Noodle Soup,143,34
+Onion Soup,97,23
+Oxtail Soup,118,28
+Pea Soup,315,75
+Potato Soup,336,80
+Pumpkin Soup,122,29
+Ramen,1831,436
+Scotch Broth,139,33
+Succotash,483,115
+Thai Soup,252,60
+Tomato Rice Soup,197,47
+Tomato Soup,126,30
+Vegetable Beef Soup,130,31
+Vegetable Broth,21,5
+Vegetable Soup,118,28
+Vegetable Stock,21,5
+Wedding Soup,223,53
+Almond Butter,2579,614
+Apple Butter,727,173
+Applesauce,286,68
+Apricot Jam,1050,250
+Blackberry Jam,1050,250
+Blackcurrant Jam,1050,250
+Blueberry Jam,1050,250
+Cheese Spread,1218,290
+Cherry Jam,1050,250
+Chocolate Philadelphia,1205,287
+Chocolate Spread,2272,541
+Cream Cheese,1436,342
+Egg,407,97
+Grape Jelly,1071,255
+Honey,1277,304
+Jelly,1168,278
+Jif Peanut Butter,2436,580
+Liverwurst,1281,305
+Margarine,3011,717
+Marmite,945,225
+Marshmallow Fluff,2797,666
+Nutella,2285,544
+Olive Spread,2310,550
+Peanut Butter,2474,589
+Peter Pan Peanut Butter,2558,609
+Philadelphia Cream Cheese,1436,342
+Plum Jam,1050,250
+"Pâté (720), Pate",1340,319
+Salted Butter,3011,717
+Skippy Peanut Butter,2495,594
+Smuckers Strawberry Jam,1050,250
+Strawberry Jam,1050,250
+Strawberry Jelly,1050,250
+Sunbutter,2591,617
+Sunflower Butter,2591,617
+Tapenade,979,233
+Unsalted Butter,3011,717
+Vegemite,756,180
+Wild Honey,1201,286
+Acerola,134,32
+Asian Pear,176,42
+Avocado,672,160
+Banana,374,89
+Breadfruit,433,103
+Cantaloupe Melon,143,34
+Casaba Melon,118,28
+Cherimoya,315,75
+Dragon Fruit,252,60
+Durian,617,147
+Feijoa,231,55
+Galia Melon,97,23
+Grapefruit,176,42
+Guava,286,68
+Honeydew,151,36
+Jackfruit,399,95
+Kiwi,256,61
+Kumquat,298,71
+Lychee,277,66
+Mandarin Oranges,223,53
+Mango,252,60
+Mangosteen,307,73
+Maracuya,407,97
+Maraschino Cherries,693,165
+Muskmelon,143,34
+Noni,223,53
+Passion Fruit,407,97
+Pineapple,210,50
+Pink Grapefruit,176,42
+Plantain,512,122
+Pomegranate,349,83
+Pomelo,160,38
+Prickly Pear,172,41
+Rambutan,344,82
+Sapodilla,349,83
+Soursop Fruit,277,66
+Star Fruit,130,31
+Tamarind,1004,239
+Watermelon,126,30
+Almond Oil,3704,882
+Apricot Kernel Oil,3734,889
+Argan Oil,3763,896
+Avocado Oil,3599,857
+Babassu Oil,3713,884
+Canola Oil,3713,884
+Coconut Oil,3599,857
+Corn Oil,3360,800
+Cottonseed Oil,3704,882
+Flaxseed Oil,3713,884
+Grape Seed Oil,3713,884
+Hazelnut Oil,3734,889
+Linseed Oil,3515,837
+Menhaden Oil,3826,911
+Mustard Oil,3713,884
+Oat Oil,3713,884
+Olive Oil,3360,800
+Palm Kernel Oil,3704,882
+Palm Oil,3704,882
+Peanut Oil,3599,857
+Poppy Seed Oil,3713,884
+Pumpkin Seed Oil,3696,880
+Rice Bran Oil,3734,889
+Safflower Oil,3599,857
+Salmon Oil,3826,911
+Sesame Oil,3734,889
+Shea Oil,3713,884
+Soy Oil,3704,882
+Sunflower Oil,3713,884
+Tomato Seed Oil,3713,884
+Vegetable Oil,3360,800
+Walnut Oil,3734,889
+Wheat Germ Oil,3902,929
+Artichoke,197,47
+Arugula,105,25
+Asparagus,84,20
+Aubergine,105,25
+Beetroot,181,43
+Bell Pepper,84,20
+Black Olives,483,115
+Broccoli,143,34
+Brussels Sprouts,181,43
+Cabbage,105,25
+Capsicum,113,27
+Carrot,172,41
+Cauliflower,105,25
+Celery,67,16
+Chard,80,19
+Cherry Tomato,420,100
+Chicory,302,72
+Chinese Cabbage,67,16
+Chives,126,30
+Collard Greens,134,32
+Corn,1533,365
+Courgette,71,17
+Creamed Spinach,311,74
+Cucumber,67,16
+Eggplant,105,25
+Endive,71,17
+Fennel,130,31
+Garlic,626,149
+Gherkin,59,14
+Gourd,59,14
+Green Beans,130,31
+Green Olives,483,115
+Green Onion,134,32
+Horseradish,202,48
+Kale,206,49
+Kohlrabi,113,27
+Kumara,361,86
+Leek,256,61
+Lettuce,63,15
+Mushrooms,92,22
+Mustard Greens,113,27
+Nori,147,35
+Okra,139,33
+Olives,483,115
+Onion,168,40
+Parsnips,315,75
+Peas,340,81
+Pepper,113,27
+Potato,323,77
+Pumpkin,109,26
+Radishes,67,16
+Red Cabbage,130,31
+Rutabaga,160,38
+Shallots,302,72
+Spinach,97,23
+Squash,189,45
+Sweet Potato,361,86
+Tomato,76,18
+Turnip Greens,84,20
+Turnips,118,28
+Wasabi,458,109
+Winter Squash,143,34
+Zucchini,71,17
+Alligator,437,104
+Alligator Meat,974,232
+Antelope Meat,630,150
+Bear Meat,1088,259
+Beaver Meat,890,212
+Bison,718,171
+Bison Meat,718,171
+Bison Sirloin,718,171
+Buffalo,550,131
+Buffalo Meat,550,131
+Caribou,668,159
+Goose,1000,238
+Goose Meat,1000,238
+Lamb,848,202
+Lamb Meat,848,202
+Mallard Duck Meat,886,211
+Mallard Meat,886,211
+Moose,563,134
+Moose Meat,563,134
+Mutton,983,234
+Mutton Meat,983,234
+Ostrich,735,175
+Ostrich Meat,735,175
+Pheasant,1004,239
+Pheasant Meat,1004,239
+Rabbit,827,197
+Racoon,1071,255
+Racoon Meat,1071,255
+Reindeer,840,200
+Reindeer Meat,840,200
+Squirrel,727,173
+Squirrel Meat,727,173
+Venison,689,164
+Venison Sirloin,664,158
+Wild Boar,672,160
+Wild Boar Meat,672,160
+Cabernet Sauvignon,323,77
+Cava,319,76
+Champagne,319,76
+Chardonnay,357,85
+Chenin Blanc,336,80
+Chocolate Wine,1075,256
+Dry Red Wine,357,85
+Gamay,328,78
+Malbec,344,82
+Malbec Wine,344,82
+Marsala Wine,420,100
+Merlot,349,83
+Merlot Wine,349,83
+Moscato Wine,319,76
+Mulled Wine,823,196
+Pinot Gris,349,83
+Pinot Noir,315,75
+Plum Wine,685,163
+Port Wine,672,160
+Prosecco,298,71
+Red Wine,357,85
+Red Wines,357,85
+Riesling,336,80
+Riesling Wine,336,80
+Rose Wine,298,71
+Sangria,554,132
+Sauvignon Blanc,340,81
+Sherry,487,116
+Shiraz,298,71
+Sparkling Wine,798,190
+Sweet Red Wine,340,81
+Sweet White Wine,344,82
+Sweet Wines,349,83
+Vermouth,454,108
+White Wine,344,82
+White Zinfandel,370,88
+Wine,349,83
+Yellow Tail Wine,298,71
+Zinfandel,370,88
+Activia,311,74
+Activia Lemon,420,100
+Activia Strawberry,407,97
+Aloe Vera Yogurt,357,85
+Ayran,176,42
+Bircher Muesli Yogurt,458,109
+Blueberry Yogurt,441,105
+Cherry Yogurt,407,97
+Chocolate Yogurt,538,128
+Cream Yogurt,521,124
+Creamy Yogurt,378,90
+Diet Yogurt,227,54
+Fruit Yogurt,407,97
+Greek Yogurt,223,53
+Low-Fat Yogurt,265,63
+Mocca Yogurt,420,100
+Organic Yogurt,315,75
+Peach Yogurt,407,97
+Plain Yogurt,256,61
+Probiotic Yogurt,336,80
+Skim Milk Yogurt,235,56
+Stracciatella Yogurt,584,139
+Strawberry Yogurt,420,100
+Vanilla Yogurt,424,101
+Yogurt,256,61
+Yogurt Corner,500,119
+Yoplait Boston Cream Pie,378,90
+Yoplait French Vanilla,420,100
+Yoplait Greek Blueberry,420,100
+Yoplait Greek Coconut,420,100
+Yoplait Greek Strawberry,420,100
+Yoplait Greek Vanilla,420,100
+Yoplait Harvest Peach,420,100
+Yoplait Key Lime Pie,420,100
+Yoplait Mango,420,100
+Yoplait Mixed Berry,420,100
+Yoplait Pina Colada,420,100
+Yoplait Strawberry,420,100
+Yoplait Strawberry Banana,420,100
+Yoplait Strawberry Cheesecake,420,100

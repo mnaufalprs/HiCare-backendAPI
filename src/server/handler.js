@@ -1,5 +1,8 @@
 const bcrypt = require('bcrypt');
 const { addUser, findUserByUsername } = require('../service/database');
+const { predictCalories } = require('../service/loadModel');
+const { foodMapping } = require('../service/foodMapping');
+const Joi = require('joi');
 
 const postRegisterHandler = async (request, h) => {
     const { username, email, password, age, gender } = request.payload;
@@ -111,7 +114,33 @@ const postLoginHandler = async (request, h) => {
     }
 };
 
+const predictModelHandler = async (request, h) => {
+    try {
+        const { food_item } = request.payload;
+        const foodInfo = foodMapping[food_item];
+
+        if (!foodInfo) {
+            return h.response({ error: 'Food item not found' }).code(404);
+        }
+
+        // Membuat input sesuai dengan shape yang diharapkan oleh model
+        const encodedInput = [[foodInfo.FoodItemEncoded, foodInfo.kj_per_100_ml_or_gms]];
+        const result = await predictCalories(encodedInput);
+
+        return h.response({ food_item, calories: result[0] }).code(200);
+    } catch (error) {
+        console.error('Error in prediction handler:', error);
+        return h.response({ error: 'Internal Server Error' }).code(500);
+    }
+};
+
+const inputDataSchema = Joi.object({
+    food_item: Joi.string().required()
+});
+
 module.exports = {
     postRegisterHandler,
     postLoginHandler,
+    predictModelHandler,
+    inputDataSchema
 };

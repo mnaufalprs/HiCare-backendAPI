@@ -13,8 +13,13 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/hapi": "^21.3.9",
+    "@tensorflow/tfjs-node": "^4.20.0",
     "bcrypt": "^5.1.1",
-    "mysql2": "^3.10.0"
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "joi": "^17.13.1",
+    "mysql2": "^3.10.0",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "nodemon": "^3.1.3"
