@@ -2,6 +2,8 @@ const Hapi = require('@hapi/hapi');
 const routes = require('../server/routes');
 const { loadModel } = require('../service/loadModel');
 const { loadFoodMapping } = require('../service/foodMapping');
+const { loadActivityModel } = require('../service/loadActivityModel');
+const { loadActivityMapping } = require('../service/activityMapping');
 
 const init = async () => {
     const server = Hapi.server({
@@ -18,6 +20,8 @@ const init = async () => {
 
     await loadModel();
     await loadFoodMapping();
+    await loadActivityModel();
+    await loadActivityMapping();
 
     await server.start();
     console.log('Server berjalan pada %s', server.info.uri);

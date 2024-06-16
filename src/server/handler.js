@@ -2,10 +2,13 @@ const bcrypt = require('bcrypt');
 const { addUser, findUserByUsername } = require('../service/database');
 const { predictCalories } = require('../service/loadModel');
 const { foodMapping } = require('../service/foodMapping');
+const { predictActivityPoints } = require('../service/loadActivityModel');
+const { activityMapping } = require('../service/activityMapping');
 const Joi = require('joi');
 
 const postRegisterHandler = async (request, h) => {
-    const { username, email, password, age, gender } = request.payload;
+    // const { username, email, password, age, gender } = request.payload;
+    const { username, email, password } = request.payload;
     const created_at = new Date();
 
     // Validasi email
@@ -37,23 +40,23 @@ const postRegisterHandler = async (request, h) => {
             return h.response({ status: 'fail', message: 'your password is not valid' }).code(400);
         }
 
-        // Validasi age
-        if (typeof age !== 'number' || age < 0) {
-            // return h.response({ status: 'fail', message: 'Umur harus berupa angka positif' }).code(400);
-            return h.response({ status: 'fail', message: 'your age number is not valid' }).code(400);
-        }
+        // // Validasi age
+        // if (typeof age !== 'number' || age < 0) {
+        //     // return h.response({ status: 'fail', message: 'Umur harus berupa angka positif' }).code(400);
+        //     return h.response({ status: 'fail', message: 'your age number is not valid' }).code(400);
+        // }
 
-        // Validasi gender
-        const validGenders = ['male', 'female', 'other'];
-        if (!validGenders.includes(gender)) {
-            return h.response({ status: 'fail', message: 'Gender tidak valid' }).code(400);
-        }
+        // // Validasi gender
+        // const validGenders = ['male', 'female', 'other'];
+        // if (!validGenders.includes(gender)) {
+        //     return h.response({ status: 'fail', message: 'Gender tidak valid' }).code(400);
+        // }
 
         // Enkripsi password
         const hashedPassword = await bcrypt.hash(password, 10);
 
         // Simpan pengguna baru
-        const newUser = { username, password: hashedPassword, email, age, gender, created_at };
+        const newUser = { username, password: hashedPassword, email, created_at };
         await new Promise((resolve, reject) => {
             addUser(newUser, (err, results) => {
                 if (err) {
@@ -70,8 +73,8 @@ const postRegisterHandler = async (request, h) => {
             data: {
                 Username: username,
                 Email: email,
-                Age: age,
-                Gender: gender,
+                // Age: age,
+                // Gender: gender,
                 createdAt: created_at
             }
         }).code(201);
@@ -116,7 +119,7 @@ const postLoginHandler = async (request, h) => {
 
 const predictModelHandler = async (request, h) => {
     try {
-        const { food_item } = request.payload;
+        const { username, food_item } = request.payload;
         const foodInfo = foodMapping[food_item];
 
         if (!foodInfo) {
@@ -138,9 +141,34 @@ const inputDataSchema = Joi.object({
     food_item: Joi.string().required()
 });
 
+const predictPointsHandler = async (request, h) => {
+    try {
+        const { username, activity_item } = request.payload;
+        const activityInfo = activityMapping[activity_item];
+
+        if (!activityInfo) {
+            return h.response({ error: 'Activity not found' }).code(404);
+        }
+
+        const encodedInput = [[activityInfo.ActivityItemEncoded, activityInfo.points]];
+        const result = await predictActivityPoints(encodedInput);
+
+        return h.response({ activity_item, points: result[0] }).code(200);
+    } catch (error) {
+        console.error('Error in prediction handler:', error);
+        return h.response({ error: 'Internal Server Error' }).code(500);
+    }
+};
+
+const activityInputDataSchema = Joi.object({
+    activity_item: Joi.string().required()
+});
+
 module.exports = {
     postRegisterHandler,
     postLoginHandler,
     predictModelHandler,
-    inputDataSchema
+    inputDataSchema,
+    predictPointsHandler,
+    activityInputDataSchema
 };
