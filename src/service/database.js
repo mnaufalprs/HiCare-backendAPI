@@ -47,5 +47,25 @@ const findUserIdByUsername = (username, callback) => {
     });
 };
 
-module.exports = { addUser, findUserByUsername, findUserIdByUsername, addFoodDrinks, addActivity };
+const getActivitiesByUsername = (username, callback) => {
+    const sql = 'SELECT nameActivity, points, created_at FROM activities WHERE username = ?';
+    connection.query(sql, [username], (err, results) => {
+        if (err) {
+            return callback(err, null);
+        }
+        callback(null, results);
+    });
+};
+
+const getFoodDrinksByUsername = (username, callback) => {
+    const sql = 'SELECT name, calories, created_at FROM fooddrinks WHERE username = ?';
+    connection.query(sql, [username], (err, results) => {
+        if (err) {
+            return callback(err, null);
+        }
+        callback(null, results);
+    });
+};
+
+module.exports = { addUser, findUserByUsername, findUserIdByUsername, addFoodDrinks, addActivity, getActivitiesByUsername, getFoodDrinksByUsername };
 

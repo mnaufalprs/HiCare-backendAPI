@@ -1,5 +1,5 @@
 const bcrypt = require('bcrypt');
-const { addUser, findUserByUsername, findUserIdByUsername, addFoodDrinks, addActivity } = require('../service/database');
+const { addUser, findUserByUsername, findUserIdByUsername, addFoodDrinks, addActivity, getActivitiesByUsername, getFoodDrinksByUsername } = require('../service/database');
 const { predictCalories } = require('../service/loadModel');
 const { foodMapping } = require('../service/foodMapping');
 const { predictActivityPoints } = require('../service/loadActivityModel');
@@ -223,11 +223,73 @@ const activityInputDataSchema = Joi.object({
     activity_item: Joi.string().required()
 });
 
+const GetAllDataHandler = async (request, h) => {
+    const { username } = request.query;
+
+    try {
+        // Cari ID pengguna berdasarkan username
+        const user = await new Promise((resolve, reject) => {
+            findUserByUsername(username, (err, user) => {
+                if (err) {
+                    reject(err);
+                } else {
+                    resolve(user);
+                }
+            });
+        });
+
+        if (!user) {
+            return h.response({ status: 'fail', message: 'User not found!' }).code(404);
+        }
+
+        // Ambil data dari tabel activities
+        const activities = await new Promise((resolve, reject) => {
+            getActivitiesByUsername(username, (err, results) => {
+                if (err) {
+                    reject(err);
+                } else {
+                    resolve(results.length ? results : null);
+                }
+            });
+        });
+
+        // Ambil data dari tabel fooddrinks
+        const foodDrinks = await new Promise((resolve, reject) => {
+            getFoodDrinksByUsername(username, (err, results) => {
+                if (err) {
+                    reject(err);
+                } else {
+                    resolve(results.length ? results : null);
+                }
+            });
+        });
+
+        return h.response({
+            status: 'success',
+            Username: username,
+            data: {
+                activities,
+                foodDrinks
+            }
+        }).code(200);
+
+    } catch (err) {
+        console.error(err);
+        return h.response({ status: 'fail', message: 'Internal Server Error' }).code(500);
+    }
+};
+
+// const DataInputDataSchema = Joi.object({
+//     username: Joi.string().required()
+// });
+
 module.exports = {
     postRegisterHandler,
     postLoginHandler,
     predictModelHandler,
     inputDataSchema,
     predictPointsHandler,
-    activityInputDataSchema
+    activityInputDataSchema,
+    GetAllDataHandler,
+    // DataInputDataSchema
 };

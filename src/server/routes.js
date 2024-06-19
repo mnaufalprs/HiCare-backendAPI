@@ -5,6 +5,8 @@ const {
     inputDataSchema,
     predictPointsHandler,
     activityInputDataSchema,
+    GetAllDataHandler,
+    DataInputDataSchema
 } = require('../server/handler');
 
 const routes = [
@@ -29,15 +31,25 @@ const routes = [
         }
     },
     {
-        method: 'POST',
         path: '/predictActivity',
+        method: 'POST',
         handler: predictPointsHandler,
         options: {
             validate: {
                 payload: activityInputDataSchema
             }
         }
-    }
+    },
+    {
+        path: '/home',
+        method: 'GET',
+        handler: GetAllDataHandler,
+        // options: {
+        //     validate: {
+        //         payload: DataInputDataSchema
+        //     }
+        // }
+    },
 ]
 
 module.exports = routes;
